@@ -14,6 +14,8 @@ git clone https://github.com/SenayYakut/Len-s-Slice.git
 
 ## Usage
 ```python
+print(three_cheapest)#[(1, 'cheese'), (2, 'mushrooms'), (2, 'olives')]
+print(num_two_dollar_slices)#3
 ```
 
 ## Contributing
